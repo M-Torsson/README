@@ -54,22 +54,22 @@
 
 ### Languages
 <p align="center">
-  <img src="assets/icons/java-script.png" alt="JavaScript" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/java-script.png" alt="JavaScript" width="28" height="28" align="absmiddle"/>
   <code>JavaScript</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/typescript.png" alt="TypeScript" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/typescript.png" alt="TypeScript" width="28" height="28" align="absmiddle"/>
   <code>TypeScript</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-dart-100.png" alt="Dart" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-dart-100.png" alt="Dart" width="28" height="28" align="absmiddle"/>
   <code>Dart</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/python.png" alt="Python" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/python.png" alt="Python" width="28" height="28" align="absmiddle"/>
   <code>Python</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/html-5.png" alt="HTML5" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/html-5.png" alt="HTML5" width="28" height="28" align="absmiddle"/>
   <code>HTML5</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/css-3.png" alt="CSS3" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/css-3.png" alt="CSS3" width="28" height="28" align="absmiddle"/>
   <code>CSS3</code>
 </p>
 
@@ -77,28 +77,28 @@
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="assets/icons/icons8-flutter-100.png" alt="Flutter" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-flutter-100.png" alt="Flutter" width="28" height="28" align="absmiddle"/>
   <code>Flutter</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-fastag-100.png" alt="FastAPI" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-fastag-100.png" alt="FastAPI" width="28" height="28" align="absmiddle"/>
   <code>FastAPI</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/flask.svg" alt="Flask" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/flask.svg" alt="Flask" width="28" height="28" align="absmiddle"/>
   <code>Flask</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-next.js-100.png" alt="Next.js" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-next.js-100.png" alt="Next.js" width="28" height="28" align="absmiddle"/>
   <code>Next.js</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/atom.png" alt="React" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/atom.png" alt="React" width="28" height="28" align="absmiddle"/>
   <code>React</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/nodejs.png" alt="Node.js" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/nodejs.png" alt="Node.js" width="28" height="28" align="absmiddle"/>
   <code>Node.js</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-tailwindcss-100.png" alt="TailwindCSS" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-tailwindcss-100.png" alt="TailwindCSS" width="28" height="28" align="absmiddle"/>
   <code>TailwindCSS</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-material-ui-100.png" alt="Material UI" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-material-ui-100.png" alt="Material UI" width="28" height="28" align="absmiddle"/>
   <code>Material UI</code>
 </p>
 
@@ -106,19 +106,19 @@
 
 ### Cloud & Hosting
 <p align="center">
-  <img src="assets/icons/icons8-amazon-web-services-100.png" alt="AWS" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-amazon-web-services-100.png" alt="AWS" width="28" height="28" align="absmiddle"/>
   <code>AWS</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-cloudflare-100.png" alt="Cloudflare" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-cloudflare-100.png" alt="Cloudflare" width="28" height="28" align="absmiddle"/>
   <code>Cloudflare</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-firebase-100.png" alt="Firebase" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-firebase-100.png" alt="Firebase" width="28" height="28" align="absmiddle"/>
   <code>Firebase</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-netlify-100.png" alt="Netlify" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-netlify-100.png" alt="Netlify" width="28" height="28" align="absmiddle"/>
   <code>Netlify</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/render.png" alt="Render" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/render.png" alt="Render" width="28" height="28" align="absmiddle"/>
   <code>Render</code>
 </p>
 
@@ -126,19 +126,19 @@
 
 ### Databases
 <p align="center">
-  <img src="assets/icons/postgre.png" alt="PostgreSQL" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/postgre.png" alt="PostgreSQL" width="28" height="28" align="absmiddle"/>
   <code>PostgreSQL</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/mysql.png" alt="MySQL" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/mysql.png" alt="MySQL" width="28" height="28" align="absmiddle"/>
   <code>MySQL</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-mongodb-100.png" alt="MongoDB" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-mongodb-100.png" alt="MongoDB" width="28" height="28" align="absmiddle"/>
   <code>MongoDB</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-sqlite-100.png" alt="SQLite" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-sqlite-100.png" alt="SQLite" width="28" height="28" align="absmiddle"/>
   <code>SQLite</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/redis.png" alt="Redis" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/redis.png" alt="Redis" width="28" height="28" align="absmiddle"/>
   <code>Redis</code>
 </p>
 
@@ -146,19 +146,19 @@
 
 ### DevOps & Tools
 <p align="center">
-  <img src="assets/icons/icons8-nginx-100.png" alt="Nginx" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-nginx-100.png" alt="Nginx" width="28" height="28" align="absmiddle"/>
   <code>Nginx</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/gunicorn.png" alt="Gunicorn" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/gunicorn.png" alt="Gunicorn" width="28" height="28" align="absmiddle"/>
   <code>Gunicorn</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/githubactions.png" alt="GitHub Actions" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/githubactions.png" alt="GitHub Actions" width="28" height="28" align="absmiddle"/>
   <code>GitHub Actions</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/postman.png" alt="Postman" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/postman.png" alt="Postman" width="28" height="28" align="absmiddle"/>
   <code>Postman</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-twilio-100.png" alt="Twilio" width="30" height="30" style="vertical-align: text-bottom;"/>
+  <img src="assets/icons/icons8-twilio-100.png" alt="Twilio" width="28" height="28" align="absmiddle"/>
   <code>Twilio</code>
 </p>
 
