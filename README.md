@@ -30,7 +30,7 @@
   Ask me about Flutter, FastAPI, React, API design, and cloud deployment
 </td></tr>
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/complexity(1).png#gh-light-mode-only" alt="products" width="28" height="28" style="vertical-align: middle; margin-right: 10px;"/><img src="assets/icons/complexity.png#gh-dark-mode-only" alt="products" width="28" height="28" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="assets/icons/complexity(1).png#gh-light-mode-only" alt="products" width="35" height="35" style="vertical-align: middle; margin-right: 10px;"/><img src="assets/icons/complexity.png#gh-dark-mode-only" alt="products" width="35" height="35" style="vertical-align: middle; margin-right: 10px;"/>
   Turning complex ideas into production-ready digital products
 </td></tr>
 </table>
