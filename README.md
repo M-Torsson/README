@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" style="vertical-align: middle; margin-bottom: 5px;"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" style="vertical-align: middle; margin-bottom: 5px;"/>, I'm Muthana  —  Founder @ CodeCore</h1>
+  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" style="vertical-align: middle; margin-bottom: 5px;"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" style="vertical-align: middle; margin-bottom: 3px;"/>, I'm Muthana  —  Founder @ CodeCore</h1>
   <h3 style="border-bottom: 1px solid; padding-bottom: 35px; margin-top: 10px;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
 </div>
 <br/>
