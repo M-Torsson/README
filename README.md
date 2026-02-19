@@ -1,44 +1,44 @@
 <div align="center">
-  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" style="vertical-align: middle; margin-bottom: 5px;"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" style="vertical-align: middle; margin-bottom: 1px;"/>, I'm Muthana  —  Founder @ CodeCore</h1>
+  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana  —  Founder @ CodeCore</h1>
   <h3 style="border-bottom: 1px solid; padding-bottom: 35px; margin-top: 10px;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
 </div>
 <br/>
 
 <div align="center">
-  <h1><img src="assets/icons/about-us(1).png#gh-light-mode-only" alt="About Me" width="40" height="40" style="vertical-align: middle; margin-bottom: 10px;"/><img src="assets/icons/about-us.png#gh-dark-mode-only" alt="About Me" width="40" height="40" style="vertical-align: middle; margin-bottom: 5px;"/> About Me:</h1>
+  <h1><img src="assets/icons/about-us(1).png#gh-light-mode-only" alt="About Me" width="40" height="40" align="absmiddle"/><img src="assets/icons/about-us.png#gh-dark-mode-only" alt="About Me" width="40" height="40" align="absmiddle"/> About Me:</h1>
 </div>
 
 <table style="width: 100%; border: none;">
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/computer.png#gh-light-mode-only" alt="founder" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/><img src="assets/icons/computer(1).png#gh-dark-mode-only" alt="founder" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/>
-  Founder at CodeCore building scalable mobile apps, backend systems, and modern web platforms
+  <img src="assets/icons/computer.png#gh-light-mode-only" alt="founder" width="28" height="28" align="absmiddle"/><img src="assets/icons/computer(1).png#gh-dark-mode-only" alt="founder" width="28" height="28" align="absmiddle"/>
+  &nbsp;Founder at CodeCore building scalable mobile apps, backend systems, and modern web platforms
 </td></tr>
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/globe.png#gh-light-mode-only" alt="website" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/><img src="assets/icons/globe(1).png#gh-dark-mode-only" alt="website" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/>
-  https://codecore.dev
+  <img src="assets/icons/globe.png#gh-light-mode-only" alt="website" width="28" height="28" align="absmiddle"/><img src="assets/icons/globe(1).png#gh-dark-mode-only" alt="website" width="28" height="28" align="absmiddle"/>
+  &nbsp;https://codecore.dev
 </td></tr>
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/target(1).png#gh-light-mode-only" alt="focus" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/><img src="assets/icons/target.png#gh-dark-mode-only" alt="focus" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/>
-  Focused on clean architecture, performance, and real-world product development
+  <img src="assets/icons/target(1).png#gh-light-mode-only" alt="focus" width="28" height="28" align="absmiddle"/><img src="assets/icons/target.png#gh-dark-mode-only" alt="focus" width="28" height="28" align="absmiddle"/>
+  &nbsp;Focused on clean architecture, performance, and real-world product development
 </td></tr>
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/support(1).png#gh-light-mode-only" alt="collaboration" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/><img src="assets/icons/support.png#gh-dark-mode-only" alt="collaboration" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/>
-  Open to collaborations, startups, and high-impact digital solutions
+  <img src="assets/icons/support(1).png#gh-light-mode-only" alt="collaboration" width="28" height="28" align="absmiddle"/><img src="assets/icons/support.png#gh-dark-mode-only" alt="collaboration" width="28" height="28" align="absmiddle"/>
+  &nbsp;Open to collaborations, startups, and high-impact digital solutions
 </td></tr>
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/chat.png#gh-light-mode-only" alt="ask me" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/><img src="assets/icons/chat(1).png#gh-dark-mode-only" alt="ask me" width="28" height="28" style="vertical-align: middle; margin-right: 5px;"/>
-  Ask me about Flutter, FastAPI, React, API design, and cloud deployment
+  <img src="assets/icons/chat.png#gh-light-mode-only" alt="ask me" width="28" height="28" align="absmiddle"/><img src="assets/icons/chat(1).png#gh-dark-mode-only" alt="ask me" width="28" height="28" align="absmiddle"/>
+  &nbsp;Ask me about Flutter, FastAPI, React, API design, and cloud deployment
 </td></tr>
 <tr><td style="padding: 8px 0; border: none;">
-  <img src="assets/icons/complexity(1).png#gh-light-mode-only" alt="products" width="35" height="35" style="vertical-align: middle; margin-right: 5px;"/><img src="assets/icons/complexity.png#gh-dark-mode-only" alt="products" width="35" height="35" style="vertical-align: middle; margin-right: 5px;"/>
-  Turning complex ideas into production-ready digital products
+  <img src="assets/icons/complexity(1).png#gh-light-mode-only" alt="products" width="28" height="28" align="absmiddle"/><img src="assets/icons/complexity.png#gh-dark-mode-only" alt="products" width="28" height="28" align="absmiddle"/>
+  &nbsp;Turning complex ideas into production-ready digital products
 </td></tr>
 </table>
 
 <br/>
 
 <div align="center">
-  <h2><img src="assets/icons/email-address.png#gh-light-mode-only" alt="Contact" width="40" height="40" style="vertical-align: middle; margin-bottom: 1px;"/><img src="assets/icons/email-address(1).png#gh-dark-mode-only" alt="Contact" width="40" height="40" style="vertical-align: middle; margin-bottom: 1px;"/> Contact:</h2>
+  <h2><img src="assets/icons/email-address.png#gh-light-mode-only" alt="Contact" width="40" height="40" align="absmiddle"/><img src="assets/icons/email-address(1).png#gh-dark-mode-only" alt="Contact" width="40" height="40" align="absmiddle"/> Contact:</h2>
   <p style="margin-top: 15px;">
     <a href="mailto:contact@codecore.dev">
       <img src="https://img.shields.io/badge/📧_Email-contact@codecore.dev-0078D4?style=for-the-badge&labelColor=2d3748" alt="Email"/>
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-# <img src="assets/icons/computer.png#gh-light-mode-only" alt="Tech Stack" width="50" height="50" style="vertical-align: middle;"/><img src="assets/icons/computer(1).png#gh-dark-mode-only" alt="Tech Stack" width="50" height="50" style="vertical-align: middle;"/> Tech Stack:
+# <img src="assets/icons/computer.png#gh-light-mode-only" alt="Tech Stack" width="50" height="50" align="absmiddle"/><img src="assets/icons/computer(1).png#gh-dark-mode-only" alt="Tech Stack" width="50" height="50" align="absmiddle"/> Tech Stack:
 
 ### Languages
 <p align="center">
@@ -168,7 +168,7 @@
 
 <div align="center">
 
-# <img src="assets/icons/pie-chart.png#gh-light-mode-only" alt="GitHub Stats" width="35" height="35" style="vertical-align: middle; margin-bottom: 5px;"/><img src="assets/icons/pie-chart(1).png#gh-dark-mode-only" alt="GitHub Stats" width="35" height="35" style="vertical-align: middle; margin-bottom: 5px;"/> GitHub Stats:
+# <img src="assets/icons/pie-chart.png#gh-light-mode-only" alt="GitHub Stats" width="35" height="35" align="absmiddle"/><img src="assets/icons/pie-chart(1).png#gh-dark-mode-only" alt="GitHub Stats" width="35" height="35" align="absmiddle"/> GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=M-Torsson&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -180,7 +180,7 @@
 
 <div align="center">
 
-# <img src="assets/icons/ranking.png#gh-light-mode-only" alt="Top Contributed Repo" width="50" height="50" style="vertical-align: middle;"/><img src="assets/icons/ranking(1).png#gh-dark-mode-only" alt="Top Contributed Repo" width="50" height="50" style="vertical-align: middle;"/> Top Contributed Repo
+# <img src="assets/icons/ranking.png#gh-light-mode-only" alt="Top Contributed Repo" width="50" height="50" align="absmiddle"/><img src="assets/icons/ranking(1).png#gh-dark-mode-only" alt="Top Contributed Repo" width="50" height="50" align="absmiddle"/> Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=M-Torsson&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
