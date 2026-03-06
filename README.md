@@ -56,6 +56,7 @@
 <p align="center">
   <img src="assets/icons/python.png" alt="Python" width="28" height="28" align="absmiddle"/>
   <code>Python</code>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/java-script.png" alt="JavaScript" width="28" height="28" align="absmiddle"/>
   <code>JavaScript</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
