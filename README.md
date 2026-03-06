@@ -57,9 +57,6 @@
   <img src="assets/icons/java-script.png" alt="JavaScript" width="28" height="28" align="absmiddle"/>
   <code>JavaScript</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/typescript.png" alt="TypeScript" width="28" height="28" align="absmiddle"/>
-  <code>TypeScript</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/icons8-dart-100.png" alt="Dart" width="28" height="28" align="absmiddle"/>
   <code>Dart</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -94,12 +91,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/nodejs.png" alt="Node.js" width="28" height="28" align="absmiddle"/>
   <code>Node.js</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-tailwindcss-100.png" alt="TailwindCSS" width="28" height="28" align="absmiddle"/>
-  <code>TailwindCSS</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/icons8-material-ui-100.png" alt="Material UI" width="28" height="28" align="absmiddle"/>
-  <code>Material UI</code>
 </p>
 
 <br/>
@@ -137,9 +128,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/icons8-sqlite-100.png" alt="SQLite" width="28" height="28" align="absmiddle"/>
   <code>SQLite</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/redis.png" alt="Redis" width="28" height="28" align="absmiddle"/>
-  <code>Redis</code>
 </p>
 
 <br/>
@@ -148,9 +136,6 @@
 <p align="center">
   <img src="assets/icons/icons8-nginx-100.png" alt="Nginx" width="28" height="28" align="absmiddle"/>
   <code>Nginx</code>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/icons/gunicorn.png" alt="Gunicorn" width="28" height="28" align="absmiddle"/>
-  <code>Gunicorn</code>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/icons/githubactions.png" alt="GitHub Actions" width="28" height="28" align="absmiddle"/>
   <code>GitHub Actions</code>
