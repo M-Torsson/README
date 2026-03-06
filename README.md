@@ -1,6 +1,10 @@
 <div align="center">
-  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana  —  Founder @ CodeCore</h1>
-  <h3 style="border-bottom: 1px solid; padding-bottom: 35px; margin-top: 10px;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
+  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana</h1>
+  <p style="margin-top: 15px; margin-bottom: 20px;">
+    <strong style="font-size: 1.2em;">Founder @ CodeCore</strong>
+  </p>
+  <hr style="width: 60%; border: none; border-top: 1px solid #d0d7de; margin: 20px auto;">
+  <h3 style="border: none; margin-top: 20px;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
 </div>
 <br/>
 
@@ -171,7 +175,6 @@
 
 </div>
 
----
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=M-Torsson&icon=0&color=0)](https://visitcount.itsvg.in)
