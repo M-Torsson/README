@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 style="border: none; margin-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana</h1>
-  <p style="margin-top: 15px; margin-bottom: 20px;">
-    <strong style="font-size: 1.2em;">Founder @ CodeCore</strong>
+  <h1 style="border: none; margin-bottom: 5px; padding-bottom: 0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana</h1>
+  <p style="margin-top: 20px; margin-bottom: 5px;">
+    <strong style="font-size: 1.4em;">Founder @ CodeCore</strong>
   </p>
-  <hr style="width: 60%; border: none; border-top: 1px solid #d0d7de; margin: 20px auto;">
-  <h3 style="border: none; margin-top: 20px;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
+  <hr style="width: 60%; border: none; border-top: 1px solid #d0d7de; margin: 15px auto 25px auto;">
+  <h3 style="border: none; margin-top: 0; font-weight: 400;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
 </div>
 <br/>
 
