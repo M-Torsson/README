@@ -1,22 +1,14 @@
 <div align="center">
-
-<div style="font-size:40px; font-weight:600;">
-  Hi 
-  <img src="assets/icons/wave1.png#gh-light-mode-only" width="35" height="35"/>
-  <img src="assets/icons/wave.png#gh-dark-mode-only" width="35" height="35"/>, 
-  I'm Muthana
+  <h1 style="border:none; border-bottom:none; margin-bottom:5px; padding-bottom:0;">Hi <img src="assets/icons/wave1.png#gh-light-mode-only" alt="wave" width="35" height="35" align="absmiddle"/><img src="assets/icons/wave.png#gh-dark-mode-only" alt="wave" width="35" height="35" align="absmiddle"/>, I'm Muthana</h1>
+  <p style="margin-top: 25px; margin-bottom: 8px;">
+    <strong style="font-size: 1.5em;">Founder @ CodeCore</strong>
+  </p>
+  <h3 style="border: none; margin-top: 0; font-weight: 400;">Full-Stack Developer | Flutter • FastAPI • React • Cloud</h3>
 </div>
+<br/>
 
-<div style="font-size:26px; font-weight:600; margin-top:10px;">
-  Founder @ CodeCore
-</div>
-
-<hr style="width:60%; border:none; border-top:1px solid #d0d7de; margin:20px auto 30px auto;">
-
-<div style="font-size:20px; font-weight:400;">
-  Full-Stack Developer | Flutter • FastAPI • React • Cloud
-</div>
-
+<div align="center">
+  <h1><img src="assets/icons/about-us(1).png#gh-light-mode-only" alt="About Me" width="40" height="40" align="absmiddle"/><img src="assets/icons/about-us.png#gh-dark-mode-only" alt="About Me" width="40" height="40" align="absmiddle"/> About Me:</h1>
 </div>
 
 <table style="width: 100%; border: none;">
